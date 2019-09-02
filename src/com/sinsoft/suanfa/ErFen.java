@@ -14,6 +14,7 @@ public class ErFen {
 
 		String a = "";
 		System.out.println("返回的下标为：" + searchIndex(arr, search));
+		System.out.println("[添加一行代码，证明我修改过]返回的下标为：" + searchIndex(arr, search));
 		
 	}
 
